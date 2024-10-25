@@ -1,4 +1,4 @@
-# mentohust
+# mentohust test
 ### 使用方法：
 1、将[mentohust](bin/mentohust)上载到\bin\中
 
